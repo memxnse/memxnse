@@ -1,6 +1,10 @@
 # Hi, I'm Mèmonsè 👋🏾 👩🏾‍💻
 
 <p align="center">
+    <H1>Hi, I'm Mèmonsè 👋🏾 👩🏾‍💻</H1>
+</p>
+
+<p align="center">
   <a href="https://codesandbox.io">
     <img src="cosy illustration.png" alt="Image of a cosy lofi, a reflection of memory, dreams, mood and state of mind of Memonse" height="300px">
   </a>
