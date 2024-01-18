@@ -1,11 +1,11 @@
 # Hi, I'm Mèmonsè 👋🏾 👩🏾‍💻
 
-<img src="cosy illustration" alt="Image of a cosy lofi, a reflection of memory, dreams, mood and state of mind of Memonse">
 <p align="center">
   <a href="https://codesandbox.io">
-    <img src="cosy illustration" alt="Image of a cosy lofi, a reflection of memory, dreams, mood and state of mind of Memonse" height="300px">
+    <img src="cosy illustration.png" alt="Image of a cosy lofi, a reflection of memory, dreams, mood and state of mind of Memonse" height="300px">
   </a>
 </p>
+
 I'm a student and Front-End web development enthusiast who is passionate about working on and delivering innovative and inpirative projects. I enjoy working with the following technologies: HTML, CSS, React Native, Vue.Js, Bootstrap and Bootstrap Studio.
 
 
